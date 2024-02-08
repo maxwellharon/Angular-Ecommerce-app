@@ -1,6 +1,10 @@
 # Angular Ecommerce Web App
 
-I made this project to learn and understand the basics of both Angular and MySQL. It was not fun at first but once I got the hang of it it was quite pleasant. In addition to Angular and MySQL, this project is built using Ant Design for its UI and SwiperJS for its carousels. The backend is built using Node.js, Express.js, Joi for input validation, and JWT for authentication. I did want to provide a demo link for now there will be instructions on how to set up this project on your local machine.
+This project was developed with the aim of gaining proficiency in Angular and MySQL fundamentals. While the learning curve was initially challenging, I found the experience rewarding as I became more familiar with the technologies. 
+
+In addition to Angular and MySQL, the project utilizes Ant Design for its user interface and SwiperJS for carousel functionality. On the backend, Node.js and Express.js are employed, with input validation handled by Joi and authentication managed through JWT.
+
+While a demo link is not currently available, detailed instructions for setting up the project on your local machine are provided.
 
 <br/>
 
@@ -9,13 +13,13 @@ I made this project to learn and understand the basics of both Angular and MySQL
 
 ## Functionality
 
-The application allows you to browse the home page for products, check out each of the details of the product and add them to your cart for a later checkout.
+The application enables users to browse the home page for products, view detailed information about each product, and add items to their cart for future checkout.
 
-Adding products to your cart will make a notification pop up and indicate that the product was added successfully.
+When products are successfully added to the cart, a notification pops up to confirm the action.
 
-You are able to see a preview of the cart on the top bar or even navigate into a more detailed cart page.
+Users can view a summary of their cart on the top bar or access a more detailed cart page.
 
-The checkout process is a multi-page form that at the end allows you to place an order that will later be shown on the order history page.
+The checkout process involves a multi-page form, culminating in the ability to place an order, which will subsequently be displayed on the order history page.
 
 <br/>
 
@@ -24,7 +28,7 @@ The checkout process is a multi-page form that at the end allows you to place an
 The app can be installed by cloning the git repository
 
 ```
-git clone https://github.com/michaelparkadze/angular-ecommerce-app.git folder-name
+git clone https://github.com/maxwellharon/angular-ecommerce-app.git folder-name
 ```
 
 Then cd into both directories and run npm install
